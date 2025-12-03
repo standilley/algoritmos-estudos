@@ -25,24 +25,6 @@ Este repositório contém exercícios práticos de **lógica de programação** 
 
 O objetivo é evoluir do básico ao avançado, criando uma base sólida de raciocínio lógico e boas práticas.
 
----
-
-# 📂 Estrutura do Repositório
-
-algoritmos-estudos/
-│
-├── 01-logica-basica/
-│ ├── maior-numero/
-│ ├── menor-numero/
-│
-├── 02-estruturas-de-decisao/
-├── 03-estruturas-de-repeticao/
-├── 04-vetores-e-matrizes/
-└── 05-algoritmos-intermediarios/
-
-yaml
-Copy code
-
 Cada exercício contém:
 
 - `csharp/`

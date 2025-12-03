@@ -105,8 +105,22 @@ Cada exercício contém:
 ### 🟦 C# (.NET)
 ```bash
 dotnet run
+```
 
 ### 🐍 Python
+```bash
 python main.py
-ou (dependendo da versão instalada):
+```
+ou
+```bash
+py main.py
+```
+
+### 🟨 JavaScript (Node.js)
+```bash
+node index.js
+```
+
+
+
 

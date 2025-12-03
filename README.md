@@ -99,40 +99,9 @@ Cada exercício contém:
 | 05 | Insertion Sort |
 
 ---
-# 🌱 Git Flow – Comandos Principais
 
-### 🔧 Inicializar o Git Flow
+# ▶ Como Executar os Exercícios
+
+### 🟦 C# (.NET)
 ```bash
-git flow init
-
-🌿 Criar uma Feature:
-git flow feature start nome-da-feature
-
-🔚 Finalizar a Feature:
-git flow feature finish nome-da-feature
-
-▶ Como Executar os Exercícios
-🟦 C#:
 dotnet run
-
-🐍 Python:
-python main.py
-
-🟨 JavaScript:
-node index.js
-
-🎯 Objetivos do Projeto
-Desenvolver raciocínio lógico
-
-Criar algoritmos em três linguagens
-
-Praticar boas práticas com Git Flow
-
-Construir um portfólio técnico sólido
-
-🤝 Contribuição
-Sugestões e melhorias são sempre bem-vindas!
-Sinta-se livre para abrir uma Issue ou enviar um Pull Request.
-
-📜 Licença
-Este projeto é livre para uso educacional e estudos.

@@ -105,3 +105,8 @@ Cada exercício contém:
 ### 🟦 C# (.NET)
 ```bash
 dotnet run
+
+### 🐍 Python
+python main.py
+ou (dependendo da versão instalada):
+

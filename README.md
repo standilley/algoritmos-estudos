@@ -1,133 +1,81 @@
-📘 Algoritmos & Lógica de Programação – Estudos
 
-Este repositório contém exercícios práticos de lógica de programação e algoritmos, resolvidos em C#, Python, JavaScript e pseudocódigo.
-O objetivo é evoluir do básico ao avançado, aplicando boas práticas de organização, versionamento e escrita de algoritmos.
+Cada exercício contém:
 
-📂 Estrutura do Projeto
+- `csharp/`
+- `python/`
+- `javascript/`
+- `pseudocodigo.txt`
 
-A estrutura segue uma organização por nível e por exercício, onde cada exercício contém suas implementações em múltiplas linguagens:
+---
 
-algoritmos-estudos/
-│
-├── 01-logica-basica/
-│   ├── maior-numero/
-│   │   ├── csharp/
-│   │   ├── javascript/
-│   │   ├── python/
-│   │   └── pseudocodigo.txt
-│   │
-│   ├── menor-numero/
-│       ├── csharp/
-│       ├── javascript/
-│       ├── python/
-│       └── pseudocodigo.txt
-│
-└── ...
+# 🧪 Exercícios já implementados
 
+| Nível | Exercício | Linguagens | Caminho |
+|------|-----------|------------|---------|
+| 01 | Maior Número | C#, Python, JS, Pseudocódigo | `01-logica-basica/maior-numero/` |
+| 01 | Menor Número | C#, Python, JS, Pseudocódigo | `01-logica-basica/menor-numero/` |
 
-Cada exercício inclui:
+---
 
-📄 Pseudocódigo
+# 📌 Próximos Exercícios
 
-🟦 Implementação em C#
+## 01 — Lógica Básica
+| Nº | Exercício |
+|----|-----------|
+| 03 | Soma de Dois Números |
+| 04 | Média Aritmética |
+| 05 | Par ou Ímpar |
+| 06 | Conversão Celsius ↔ Fahrenheit |
+| 07 | Maior de Três Números |
 
-🐍 Implementação em Python
+---
 
-🟨 Implementação em JavaScript
+## 02 — Estruturas de Decisão
+| Nº | Exercício |
+|----|-----------|
+| 01 | IMC |
+| 02 | Aprovação por Nota |
+| 03 | Calculadora |
+| 04 | Classificação de Idade |
+| 05 | Ano Bissexto |
 
-🚀 Como Executar os Exercícios
-🟦 C# (.NET)
+---
 
-Dentro da pasta csharp/ do exercício:
+## 03 — Estruturas de Repetição
+| Nº | Exercício |
+|----|-----------|
+| 01 | Tabuada |
+| 02 | Fatorial |
+| 03 | Contador |
+| 04 | Somatório |
+| 05 | Média de N Valores |
 
-dotnet run
+---
 
-🐍 Python
+## 04 — Vetores e Matrizes
+| Nº | Exercício |
+|----|-----------|
+| 01 | Maior elemento do vetor |
+| 02 | Menor elemento do vetor |
+| 03 | Soma dos elementos |
+| 04 | Soma das linhas da matriz |
+| 05 | Soma das colunas da matriz |
 
-Dentro da pasta python/:
+---
 
-python main.py
+## 05 — Algoritmos Intermediários
+| Nº | Exercício |
+|----|-----------|
+| 01 | Busca Linear |
+| 02 | Busca Binária |
+| 03 | Bubble Sort |
+| 04 | Selection Sort |
+| 05 | Insertion Sort |
 
+---
 
-ou
+# 🌱 Git Flow
 
-py main.py
-
-🟨 JavaScript (Node.js)
-
-Dentro da pasta javascript/:
-
-node index.js
-
-🌱 Fluxo de Versionamento – Git Flow
-
-Este projeto utiliza o fluxo Git Flow para organização do desenvolvimento.
-
-Branches principais
-
-main → versões estáveis
-
-develop → desenvolvimento contínuo
-
-Branches auxiliares
-
-feature/ → novas funcionalidades
-
-release/ → criação de versões
-
-hotfix/ → correções emergenciais
-
-Comandos Git Flow
-
-Inicializar:
-
+### Inicializar
+```bash
 git flow init
-
-
-Criar uma feature:
-
-git flow feature start nome-da-feature
-
-
-Finalizar a feature:
-
-git flow feature finish nome-da-feature
-
-
-Criar uma release:
-
-git flow release start 1.0.0
-
-
-Finalizar release:
-
-git flow release finish 1.0.0
-
-📘 Exercícios Implementados
-✔ 01 — Lógica Básica
-Exercício	Linguagens	Caminho
-Maior Número	C#, Python, JavaScript, Pseudocódigo	01-logica-basica/maior-numero/
-Menor Número	C#, Python, JavaScript, Pseudocódigo	01-logica-basica/menor-numero/
-
-(A lista será atualizada conforme novos exercícios forem adicionados.)
-
-🎯 Objetivos do Projeto
-
-Estudar lógica de programação de forma progressiva
-
-Desenvolver algoritmos em múltiplas linguagens
-
-Criar uma estrutura limpa e organizada de estudos
-
-Praticar versionamento com Git e Git Flow
-
-Criar um portfólio de resolução de problemas
-
-🤝 Contribuição
-
-Este repositório é de estudo pessoal, mas sugestões, melhorias e novos exercícios são bem-vindos!
-Sinta-se livre para abrir issues ou enviar PRs.
-
-📜 Licença
-
-Este projeto pode ser usado livremente para aprendizado e estudos.

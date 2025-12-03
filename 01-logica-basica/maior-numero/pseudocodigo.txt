@@ -1,0 +1,19 @@
+Algoritmo MaiorNumero
+    Entrada: vetor de inteiros A com N elementos
+    Saída: maior valor contido em A
+
+    se N == 0 então
+        escrever "Lista vazia"
+        retornar
+    fim-se
+
+    maior ← A[0]
+
+    para i de 1 até N - 1 faça
+        se A[i] > maior então
+            maior ← A[i]
+        fim-se
+    fim-para
+
+    retornar maior
+FimAlgoritmo

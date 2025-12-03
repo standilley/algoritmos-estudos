@@ -121,6 +121,29 @@ py main.py
 node index.js
 ```
 
+🎯 Objetivos do Projeto
 
+Desenvolver raciocínio lógico
 
+Praticar resolução de problemas
+
+Implementar algoritmos em três linguagens
+
+Criar uma base sólida para estudos avançados
+
+Organizar exercícios de forma limpa e padronizada
+
+Construir um portfólio técnico de qualidade
+
+🤝 Contribuição
+
+Sugestões, melhorias e novos algoritmos são sempre bem-vindos!
+
+Abra uma Issue para discutir ideias
+
+Envie um Pull Request com melhorias
+
+📜 Licença
+
+Este repositório é de uso livre para aprendizado e estudos.
 

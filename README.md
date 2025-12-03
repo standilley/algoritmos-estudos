@@ -105,27 +105,28 @@ Cada exercício contém:
 ### Inicializar
 ```bash
 git flow init
+
 Criar uma feature
 bash
-Copy code
 git flow feature start nome-da-feature
+
 Finalizar a feature
 bash
-Copy code
 git flow feature finish nome-da-feature
+
 ▶ Como Executar
 C#
 bash
-Copy code
 dotnet run
+
 Python
 bash
-Copy code
 python main.py
+
 JavaScript
 bash
-Copy code
 node index.js
+
 🎯 Objetivos
 Desenvolver raciocínio lógico
 

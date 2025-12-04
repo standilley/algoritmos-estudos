@@ -40,6 +40,7 @@ Cada exercício contém:
 |------|-----------|------------|---------|
 | 01 | Maior Número | C#, Python, JS, Pseudocódigo | `01-logica-basica/maior-numero/` |
 | 01 | Menor Número | C#, Python, JS, Pseudocódigo | `01-logica-basica/menor-numero/` |
+| 01 | Número Positivo | C#, Python, JS, Pseudocódigo | `01-logica-basica/numero-positivo/` |
 
 ---
 

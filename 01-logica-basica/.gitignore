@@ -1,0 +1,39 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.ide
+
+# Rider
+.idea/
+
+# Mac files
+.DS_Store
+
+# NuGet
+*.nupkg
+packages/
+
+# Log files
+*.log
+
+# Compiled DLLs and executables
+*.dll
+*.exe
+*.pdb
+
+# Cache files
+*.cache
+*.db
+
+# ASP.NET temp
+*.iobj
+*.ipdb
+
+# Others
+*.class

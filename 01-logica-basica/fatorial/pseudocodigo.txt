@@ -1,0 +1,10 @@
+ler N
+
+fatorial ← 1
+
+para i de 1 até N faça
+    fatorial ← fatorial * i
+fim-para
+
+escrever fatorial
+

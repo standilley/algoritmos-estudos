@@ -1,0 +1,11 @@
+contador ← 0
+
+para i de 1 até 5 faça
+    ler X
+    se X > 0 então
+        contador ← contador + 1
+    fim-se
+fim-para
+
+escrever contador
+

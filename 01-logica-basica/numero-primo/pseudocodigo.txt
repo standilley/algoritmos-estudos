@@ -1,0 +1,16 @@
+ler N
+
+divisores ← 0
+
+para i de 1 até N faça
+    se N % i == 0 então
+        divisores ← divisores + 1
+    fim-se
+fim-para
+
+se divisores == 2 então
+    escrever "Primo"
+senão
+    escrever "Não é primo"
+fim-se
+

@@ -1,0 +1,13 @@
+início
+    escreva "Digite o valor inicial:"
+    leia inicio
+
+    escreva "Digite o valor final:"
+    leia fim
+
+    enquanto inicio ≤ fim faça
+        escreva inicio
+        inicio ← inicio + 1
+    fim-enquanto
+fim
+

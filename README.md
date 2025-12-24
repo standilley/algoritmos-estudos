@@ -45,7 +45,10 @@ Cada exercício contém:
 | 01 | Número Primo | C#, Python, JS, Pseudocódigo | `01-logica-basica/numero-primo/` |
 | 01 | Conversão Celsius ↔ Fahrenheit | C#, Python, JS, Pseudocódigo | `01-logica-basica/conversao-celsius-fahrenheit/` |
 | 01 | IMC | C#, Python, JS, Pseudocódigo | `01-logica-basica/imc/`
-| 01 | Calculadora  | C#, Python, JS, Pseudocódigo | `01-logica-basica/calculadora/`
+| 01 | Calculadora | C#, Python, JS, Pseudocódigo | `01-logica-basica/calculadora/`
+| 01 | Ano Bissexto | C#, Python, JS, Pseudocódigo | `01-logica-basica/ano-bissexto/`
+| 01 | Contador | C#, Python, JS, Pseudocódigo | `01-logica-basica/contador/`
+| 01 | Média de N Valores | C#, Python, JS, Pseudocódigo | `01-logica-basica/media-valores/`
 
 ---
 

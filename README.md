@@ -49,6 +49,8 @@ Cada exercício contém:
 | 01 | Ano Bissexto | C#, Python, JS, Pseudocódigo | `01-logica-basica/ano-bissexto/`
 | 01 | Contador | C#, Python, JS, Pseudocódigo | `01-logica-basica/contador/`
 | 01 | Média de N Valores | C#, Python, JS, Pseudocódigo | `01-logica-basica/media-valores/`
+| 02 | Maior elemento do vetor | C#, Python, JS, Pseudocódigo | `02-vetores-e-matrizes/maior-elemento-vetor/`
+| 02 | Menor elemento do vetor | C#, Python, JS, Pseudocódigo | `02-vetores-e-matrizes/menor-elemento-vetor/`
 
 ---
 
@@ -58,11 +60,9 @@ Cada exercício contém:
 ## 02 — Vetores e Matrizes
 | Nº | Exercício |
 |----|-----------|
-| 01 | Maior elemento do vetor |
-| 02 | Menor elemento do vetor |
-| 03 | Soma dos elementos |
-| 04 | Soma das linhas da matriz |
-| 05 | Soma das colunas da matriz |
+| 02 | Soma dos elementos |
+| 02 | Soma das linhas da matriz |
+| 02 | Soma das colunas da matriz |
 
 ---
 

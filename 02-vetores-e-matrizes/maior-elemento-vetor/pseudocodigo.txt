@@ -1,0 +1,19 @@
+início
+    escreva "Digite a quantidade de elementos:"
+    leia N
+
+    para i de 1 até N faça
+        escreva "Digite o elemento ", i, ":"
+        leia vetor[i]
+    fim-para
+
+    maior ← vetor[1]
+
+    para i de 2 até N faça
+        se vetor[i] > maior então
+            maior ← vetor[i]
+        fim-se
+    fim-para
+
+    escreva "Maior elemento do vetor:", maior
+fim

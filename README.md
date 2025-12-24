@@ -51,37 +51,21 @@ Cada exercício contém:
 ## 01 — Lógica Básica
 | Nº | Exercício |
 |----|-----------|
-| 03 | Soma de Dois Números |
-| 04 | Média Aritmética |
-| 05 | Par ou Ímpar |
-| 06 | Conversão Celsius ↔ Fahrenheit |
-| 07 | Maior de Três Números |
-
----
-
-## 02 — Estruturas de Decisão
-| Nº | Exercício |
-|----|-----------|
+| 01 | Maior Número |
+| 01 | Menor Número |
+| 01 | Número Positivo |
+| 01 | Calcular Fatorial |
+| 01 | Número Primo
+| 01 | Conversão Celsius ↔ Fahrenheit |
 | 01 | IMC |
-| 02 | Aprovação por Nota |
-| 03 | Calculadora |
-| 04 | Classificação de Idade |
-| 05 | Ano Bissexto |
+| 01 | Calculadora |
+| 01 | Ano Bissexto |
+| 01 | Contador |
+| 01 | Média de N Valores |
 
 ---
 
-## 03 — Estruturas de Repetição
-| Nº | Exercício |
-|----|-----------|
-| 01 | Tabuada |
-| 02 | Fatorial |
-| 03 | Contador |
-| 04 | Somatório |
-| 05 | Média de N Valores |
-
----
-
-## 04 — Vetores e Matrizes
+## 02 — Vetores e Matrizes
 | Nº | Exercício |
 |----|-----------|
 | 01 | Maior elemento do vetor |
@@ -92,7 +76,7 @@ Cada exercício contém:
 
 ---
 
-## 05 — Algoritmos Intermediários
+## 03 — Algoritmos Intermediários
 | Nº | Exercício |
 |----|-----------|
 | 01 | Busca Linear |

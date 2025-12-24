@@ -53,22 +53,6 @@ Cada exercício contém:
 ---
 
 # 📌 Próximos Exercícios
-
-## 01 — Lógica Básica
-| Nº | Exercício |
-|----|-----------|
-| 01 | Maior Número |
-| 01 | Menor Número |
-| 01 | Número Positivo |
-| 01 | Calcular Fatorial |
-| 01 | Número Primo
-| 01 | Conversão Celsius ↔ Fahrenheit |
-| 01 | IMC |
-| 01 | Calculadora |
-| 01 | Ano Bissexto |
-| 01 | Contador |
-| 01 | Média de N Valores |
-
 ---
 
 ## 02 — Vetores e Matrizes

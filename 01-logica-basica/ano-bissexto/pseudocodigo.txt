@@ -1,0 +1,11 @@
+início
+    escreva "Digite um ano:"
+    leia ano
+
+    se (ano % 4 = 0 e ano % 100 ≠ 0) ou (ano % 400 = 0) então
+        escreva "Ano bissexto"
+    senão
+        escreva "Ano não bissexto"
+    fim-se
+fim
+

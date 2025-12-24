@@ -1,0 +1,19 @@
+início
+    escreva "Digite a quantidade de valores:"
+    leia N
+
+    soma ← 0
+    contador ← 1
+
+    enquanto contador ≤ N faça
+        escreva "Digite o valor ", contador, ":"
+        leia valor
+        soma ← soma + valor
+        contador ← contador + 1
+    fim-enquanto
+
+    media ← soma / N
+
+    escreva "Média dos valores:", media
+fim
+

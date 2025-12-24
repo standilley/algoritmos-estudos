@@ -1,0 +1,22 @@
+início
+    escreva "Digite o peso (kg):"
+    leia peso
+
+    escreva "Digite a altura (m):"
+    leia altura
+
+    imc ← peso / (altura * altura)
+
+    escreva "IMC:", imc
+
+    se imc < 18.5 então
+        escreva "Classificação: Abaixo do peso"
+    senão se imc < 25 então
+        escreva "Classificação: Peso normal"
+    senão se imc < 30 então
+        escreva "Classificação: Sobrepeso"
+    senão
+        escreva "Classificação: Obesidade"
+    fim-se
+fim
+

@@ -43,6 +43,7 @@ Cada exercício contém:
 | 01 | Número Positivo | C#, Python, JS, Pseudocódigo | `01-logica-basica/numero-positivo/` |
 | 01 | Calcular Fatorial | C#, Python, JS, Pseudocódigo | `01-logica-basica/fatorial/` |
 | 01 | Número Primo | C#, Python, JS, Pseudocódigo | `01-logica-basica/numero-primo/` |
+| 01 | Conversão Celsius ↔ Fahrenheit | C#, Python, JS, Pseudocódigo | `01-logica-basica/conversao-celsius-fahrenheit/` |
 
 ---
 

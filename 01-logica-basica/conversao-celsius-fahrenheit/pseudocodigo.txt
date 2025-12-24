@@ -1,0 +1,25 @@
+início
+
+    escrever "Conversão de Temperatura"
+    escrever "1 - Celsius para Fahrenheit"
+    escrever "2 - Fahrenheit para Celsius"
+    ler opcao
+
+    se opcao = 1 então
+        escrever "Digite a temperatura em Celsius:"
+        ler celsius
+        fahrenheit ← (celsius * 9/5) + 32
+        escrever "Resultado: ", fahrenheit, " °F"
+
+    senão se opcao = 2 então
+        escrever "Digite a temperatura em Fahrenheit:"
+        ler fahrenheit
+        celsius ← (fahrenheit - 32) * 5/9
+        escrever "Resultado: ", celsius, " °C"
+
+    senão
+        escrever "Opção inválida"
+    fim-se
+
+fim
+

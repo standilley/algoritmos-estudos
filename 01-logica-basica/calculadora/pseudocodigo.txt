@@ -1,0 +1,34 @@
+início
+    escreva "Digite o primeiro número:"
+    leia n1
+
+    escreva "Digite o segundo número:"
+    leia n2
+
+    escreva "Escolha a operação:"
+    escreva "+  Soma"
+    escreva "-  Subtração"
+    escreva "*  Multiplicação"
+    escreva "/  Divisão"
+    leia operacao
+
+    se operacao = "+" então
+        resultado ← n1 + n2
+    senão se operacao = "-" então
+        resultado ← n1 - n2
+    senão se operacao = "*" então
+        resultado ← n1 * n2
+    senão se operacao = "/" então
+        se n2 = 0 então
+            escreva "Erro: divisão por zero"
+            pare
+        fim-se
+        resultado ← n1 / n2
+    senão
+        escreva "Operação inválida"
+        pare
+    fim-se
+
+    escreva "Resultado:", resultado
+fim
+

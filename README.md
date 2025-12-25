@@ -57,6 +57,10 @@ Cada exercício contém:
 
 ---
 
+# 📌 Próximos Exercícios
+
+---
+
 ## 03 — Algoritmos Intermediários
 | Nº | Exercício |
 |----|-----------|

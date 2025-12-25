@@ -1,0 +1,17 @@
+início
+    escreva "Digite a quantidade de linhas:"
+    leia L
+
+    escreva "Digite a quantidade de colunas:"
+    leia C
+
+    para i de 1 até L faça
+        somaLinha ← 0
+        para j de 1 até C faça
+            escreva "Digite o valor da posição [", i, ",", j, "]:"
+            leia matriz[i][j]
+            somaLinha ← somaLinha + matriz[i][j]
+        fim-para
+        escreva "Soma da linha ", i, ":", somaLinha
+    fim-para
+fim

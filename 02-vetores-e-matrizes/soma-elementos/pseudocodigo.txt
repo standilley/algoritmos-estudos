@@ -1,0 +1,16 @@
+início
+    escreva "Digite a quantidade de elementos:"
+    leia N
+
+    soma ← 0
+
+    para i de 1 até N faça
+        escreva "Digite o elemento ", i, ":"
+        leia vetor[i]
+        soma ← soma + vetor[i]
+    fim-para
+
+    escreva "Soma dos elementos:", soma
+fim
+
+

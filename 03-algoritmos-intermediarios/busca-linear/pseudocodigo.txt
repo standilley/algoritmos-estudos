@@ -1,0 +1,26 @@
+início
+    escreva "Digite a quantidade de elementos:"
+    leia N
+
+    para i de 1 até N faça
+        escreva "Digite o elemento ", i, ":"
+        leia vetor[i]
+    fim-para
+
+    escreva "Digite o valor a ser buscado:"
+    leia chave
+
+    encontrado ← falso
+
+    para i de 1 até N faça
+        se vetor[i] = chave então
+            escreva "Valor encontrado na posição ", i
+            encontrado ← verdadeiro
+            pare
+        fim-se
+    fim-para
+
+    se encontrado = falso então
+        escreva "Valor não encontrado"
+    fim-se
+fim

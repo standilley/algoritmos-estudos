@@ -1,0 +1,30 @@
+início
+    leia N
+    para i de 1 até N faça
+        leia vetor[i]
+    fim-para
+
+    leia chave
+
+    inicio ← 1
+    fim ← N
+    encontrado ← falso
+
+    enquanto inicio ≤ fim faça
+        meio ← (inicio + fim) // 2
+
+        se vetor[meio] = chave então
+            escreva "Encontrado na posição ", meio
+            encontrado ← verdadeiro
+            pare
+        senão se chave < vetor[meio] então
+            fim ← meio - 1
+        senão
+            inicio ← meio + 1
+        fim-se
+    fim-enquanto
+
+    se encontrado = falso então
+        escreva "Não encontrado"
+    fim-se
+fim

@@ -54,6 +54,7 @@ Cada exercício contém:
 | 02 | Soma dos elementos | C#, Python, JS, Pseudocódigo | `02-vetores-e-matrizes/soma-elementos/`
 | 02 | Soma das linhas da matriz | C#, Python, JS, Pseudocódigo | `02-vetores-e-matrizes/soma-linhas-matriz/`
 | 02 | Soma das colunas da matriz | C#, Python, JS, Pseudocódigo | `02-vetores-e-matrizes/soma-colunas-matriz/`
+| 03 | Busca Linear | C#, Python, JS, Pseudocódigo | `03-algoritmos-intermediarios/busca-linear/`
 
 ---
 
@@ -64,11 +65,10 @@ Cada exercício contém:
 ## 03 — Algoritmos Intermediários
 | Nº | Exercício |
 |----|-----------|
-| 01 | Busca Linear |
-| 02 | Busca Binária |
+| 03 | Busca Binária |
 | 03 | Bubble Sort |
-| 04 | Selection Sort |
-| 05 | Insertion Sort |
+| 03 | Selection Sort |
+| 03 | Insertion Sort |
 
 ---
 
